@@ -1,6 +1,5 @@
 # Description:
 > No spam in the chat
->> My framework communities [RU] - https://steamcommunity.com/groups/grouningteam
 >> Support to Product? - ONLY / ARE TRUE
 For personal use (local)
 1. Subscribe to the addon
