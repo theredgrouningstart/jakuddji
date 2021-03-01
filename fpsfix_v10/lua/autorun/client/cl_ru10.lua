@@ -9,6 +9,7 @@ local fps_she = Color(77,175,124,150)
 local fps_rex = Color(77,175,124,0)
 local fps_rex2 = Color(131,111,255)
 if CLIENT then	
+RunConsoleCommand("r_decals","5")RunConsoleCommand("mp_decals","0")
 hook.Add("NetworkEntityCreated", "fpsfixred", function(ent)
     timer.Simple( 1, function() if not IsValid(ent) then return end   
     ent.RenderOverride = function() 
