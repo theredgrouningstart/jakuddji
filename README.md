@@ -20,20 +20,3 @@ Removed icons	Simple optimization formula
 Suitable for all servers	Fixed menu location
 improved font settings	Simple menu
 
-//
-Answer to the question about " Why additional content"
-- Improved Object
-Improves performance by refusing to display objects OUT of your line of sight
-
-- AntiLag-restricts the loading of objects by the display range (You can replace it with a script laid out in the Discussions) - does not work in MultiPlayer
-
-- NPC Battle (Optimization) by Xalalau
-Improves performance by refusing to display corpses, weapons from corpses, and various objects.
-Improves performance by removing weapons that the player has thrown (Customize).)
-
-- Seats Optimizer
-Will improve the performance as well as the operation of the vehicles on the server
-
-- BadCoderZ
-It will improve performance, as well as help you detect various vulnerabilities on your server.
-The improvement is due to the detection of overly loaded code, as well as backdoors and various possible leaks
